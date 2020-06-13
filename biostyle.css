@@ -1,0 +1,44 @@
+
+
+@font-face {
+    font-family: "8Bit Wonder Nominal";
+    src: url("8-BIT WONDER.TTF");
+}
+body{
+    background: url("http://getwallpapers.com/wallpaper/full/5/f/5/188990.jpg") no-repeat;
+    background-color: black;
+    color: #84DE02;
+    
+    background-size: 1900px 1000px;
+    font-family: '8Bit Wonder Nominal';
+}
+
+.center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.border{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 38px;
+    text-align: center;
+    border: 6px double #84DE02;
+    border-radius: 5px;
+    
+}
+h1.georgiaFont{
+    font-family: '8Bit Wonder Nominal';
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+h2.georgiaFont{
+    font-family: '8Bit Wonder Nominal';
+    font-size: 24px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
