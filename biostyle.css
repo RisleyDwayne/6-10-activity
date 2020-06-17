@@ -1,14 +1,13 @@
-@font-face {
-    font-family: "8Bit Wonder Nominal";
-    src: url("8-BIT WONDER.TTF");
-}
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 body {
     background: url("http://getwallpapers.com/wallpaper/full/5/f/5/188990.jpg") fixed no-repeat;
     background-size: 1900px 1000px;
     background-color: rgb(0, 0, 0);
     color: #84DE02;
-    font-family: '8Bit Wonder Nominal';
+    font-family: 'Press Start 2P';
 }
 
 .center {
@@ -41,7 +40,7 @@ h2 {
 }
 
 .georgia-font {
-    font-family: '8Bit Wonder Nominal';
+    font-family: 'Press Start 2P';
 }
 
 .bio-image {
